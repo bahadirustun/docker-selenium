@@ -2,6 +2,51 @@
 
 All notable changes to this helm chart will be documented in this file.
 
+## :heavy_check_mark: 0.15.8
+
+### Changed
+- Update image tag to 4.9.0-20230421
+
+## :heavy_check_mark: 0.15.7
+
+### Changed
+- Update image tag to 4.8.3-20230328
+
+## :heavy_check_mark: 0.15.6
+
+### Changed
+- Update image tag to 4.8.3-20230328
+
+## :heavy_check_mark: 0.15.5
+
+### Changed
+- Update image tag to 4.8.2-20230325
+
+## :heavy_check_mark: 0.15.4
+
+### Changed
+- Update image tag to 4.8.1-20230306
+
+## :heavy_check_mark: 0.15.3
+
+### Changed
+- Make ingress compatible with format prior to 1.19-0 k8s version
+
+## :heavy_check_mark: 0.15.2
+
+### Changed
+- Update image tag to 4.8.1-20230221
+
+## :heavy_check_mark: 0.15.1
+
+### Changed
+- Update image tag to 4.8.0-20230210
+
+## :heavy_check_mark: 0.15.0
+
+### Changed
+- Update image tag to 4.8.0-20230123
+
 ## :heavy_check_mark: 0.14.3
 
 ### Changed
